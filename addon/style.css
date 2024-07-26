@@ -1,0 +1,19 @@
+
+
+* {
+    font-family: 'prompt' , sans-serif;
+}
+
+@font-face {
+    font-family: prompt;
+    src: url("./font/Prompt-Medium.ttf");
+}
+
+.text-small {
+    font-size: 0.9rem !important;
+}
+
+.subtitle {
+    color: #b6b4b4;
+    font-size: 0.7rem;
+}
